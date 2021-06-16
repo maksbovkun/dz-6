@@ -1,0 +1,6 @@
+.content .animation .line{
+    height: 2px;
+    background-color: red;
+    width: 100px;
+    margin: 0 auto  ;
+}

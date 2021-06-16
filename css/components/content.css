@@ -1,0 +1,23 @@
+.animation h1, .animation p{
+    width: var(--content-width);
+    margin: 0 auto;
+padding: 5px;
+}
+
+.animation p{
+    margin-bottom: 20px;
+    width: 420px;
+}
+.animation{
+    margin-bottom: 50px;
+}
+
+.content{
+    width: var(--content-width);
+    margin: 0 auto
+;
+}
+.animation h1{
+    font-weight: bold;
+    font-size: 35px;
+}

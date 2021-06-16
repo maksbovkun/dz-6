@@ -1,0 +1,16 @@
+.img {
+    width: var(--content-width);
+    margin: 0 auto;
+display: flex;
+
+}
+.cube   {
+
+    background-color: var(--main-bg-color);
+    width: 25%;
+    height: 250px;
+    display: flex;
+    margin: 8px;
+
+
+}

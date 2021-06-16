@@ -1,0 +1,4 @@
+.bigimg{
+    width: var(--content-width);
+    margin-bottom: 50px;
+}
