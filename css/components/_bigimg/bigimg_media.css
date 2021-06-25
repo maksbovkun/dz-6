@@ -1,0 +1,23 @@
+@media (max-width: 767px){
+    .bigimg .img .cube,
+    .bigimg{
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .bigimg .img {
+        flex-direction: column;
+    }
+
+}
+@media (max-width: 500px) {
+    .bigimg .img .cube,
+    .bigimg{
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .bigimg .img {
+        flex-direction: column;
+    }
+
+
+}

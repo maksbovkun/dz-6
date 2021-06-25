@@ -1,0 +1,8 @@
+@media (max-width: 767px) {
+    .animation{
+        width: 100%;
+    }
+    .animation .p   {
+        width: 100%;
+    }
+}

@@ -1,0 +1,21 @@
+@media (max-width: 767px) {
+   ul .link {
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 500px) {
+    ul .link {
+        width: 100%;
+    }
+    ul  {
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+    }
+    li{
+        width: calc(100%/5);
+    }
+
+}

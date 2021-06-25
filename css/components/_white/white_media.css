@@ -1,0 +1,34 @@
+@media (max-width: 1000px) {
+    .left_text {
+        margin-bottom: 30px;
+        font-size: 15px;
+    }
+}
+
+
+
+
+@media (max-width: 767px) {
+    .white .left,
+    .white .right{
+width: 100%;
+    }
+    .list{
+        flex-direction: column-reverse;
+    }
+    .left_text {
+        margin-bottom: 30px;
+        font-size: 15px;
+    }
+
+}
+@media (max-width: 500px){
+    .right .small{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .left_text {
+        margin-bottom: 30px;
+        font-size: 15px;
+    }
+}

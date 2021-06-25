@@ -1,0 +1,32 @@
+
+@media (max-width: 1250px) {
+
+    :root {
+        --content-width: 1000px
+    }
+
+}
+
+@media (max-width: 1000px) {
+
+    :root {
+        --content-width: 767px
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    :root {
+        --content-width: 500px
+    }
+
+}
+
+@media (max-width: 500px) {
+
+    :root {
+        --content-width: 100%
+    }
+
+}

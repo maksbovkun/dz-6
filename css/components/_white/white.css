@@ -1,0 +1,44 @@
+
+a.butn{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 18px 20px;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 10px;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+
+}
+div.white{
+    margin-bottom: 70px;
+}
+
+
+div.list   {
+    display: flex;
+    margin: 0 auto;
+    font-size: 0;
+
+
+}
+div.small{
+    display: inline-block;
+    width: 50%;
+    font-size: 15px;
+    text-align: start;
+}
+div.left{
+    display: inline-block;
+    font-size: 25px;
+    width: 50%;
+    text-align: start;
+}
+div.right{
+    display: inline-block;
+    width: 50%;
+    text-align: start;
+
+}

@@ -1,6 +1,6 @@
 div.line{
     background-color: gray;
     height: 2px;
-    width: 1250px;
+    width: var(--content-width);
     margin: auto;
 }
