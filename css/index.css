@@ -6,13 +6,13 @@
 @import "components/_animation/index.css";
 @import "components/_link/index.css";
 @import "components/_line/index.css";
-
+@import "components/_last/index.css";
 
 @import "components/header.css";
 @import "style.css";
 @import "components/small line.css";
 @import "components/content.css";
-@import "components/last.css";
+
 
 
 

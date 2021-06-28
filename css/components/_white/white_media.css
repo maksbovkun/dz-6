@@ -4,6 +4,22 @@
         font-size: 15px;
     }
 }
+@media (max-width: 992px) {
+    .left_text {
+        margin-bottom: 30px;
+        font-size: 15px;
+    }
+    .list{
+        flex-direction: column;
+        width: 100%;
+    }
+    .left,
+    .right{
+        width: 100%;
+        justify-content: center;
+    }
+  
+}
 
 
 
